@@ -1,10 +1,10 @@
 ==========================================================
-#                     NeuCBOT v-2.0                      
-Author: Shawn Westerdale
+#                     NeuCBOT v-2.0 Python 3 Version                   
+Author: Shawn Westerdale and Dhruv Trivedi
 
-email: shawest@princeton.edu
+email: shawest@princeton.edu, dhruvtrivedi2006@gmail.com
 
-Date: 5 Jun 2020
+Date: 27 July 2023
 
 github: https://github.com/shawest/neucbot
 
@@ -70,7 +70,7 @@ saves them in a local database for future use.
 ### ii. <a name="dependencies">Dependencies</a>
 This software is written in python. 
 
-NeuCBOT was written specifically for Python 2.6.6, and, to the
+NeuCBOT was written specifically for Python 3, and, to the
 extent that some scripts included in this package rely on
 bash, was written for bash 4.1.2.
 
